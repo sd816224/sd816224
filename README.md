@@ -15,7 +15,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [my basketball club website](https://bcbasketball.co.uk) ([repo](https://github.com/sd816224/bcbc))
+- 🔭 I’m currently working on [my basketball club website](http://bcbasketball.co.uk) ([repo](https://github.com/sd816224/bcbc))
   
 
 - 🌱 I’m currently learning Django and JavaScript  
