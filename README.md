@@ -3,7 +3,7 @@
 
 
 
-###  i love learning and building cool things. 🚀  
+###  I love learning and building cool things. 🚀  
 <a href="https://github.com/sd816224" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -13,24 +13,22 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [my basketball club website](http://bcbasketball.co.uk) ([repo](https://github.com/sd816224/bcbc))
-  
+- 🌱 I’m currently working on a personal data engineering project: ([youtube-crypto-index](https://github.com/sd816224/bcbc))
 
-- 🌱 I’m currently learning Django and JavaScript  
-
-
-</td><td valign="top" width="50%">
+- 🔭 recently rebuild website: [my basketball club website](http://bcbasketball.co.uk) ([repo](https://github.com/sd816224/youtube-crypto-index))
+</td>
+<td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+
 </div>  
 
 
 </td></tr></table>  
 
-<br/>  
 
 
 ## Languages and Tools  
