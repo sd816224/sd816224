@@ -15,9 +15,9 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently working on a personal data engineering project: ([youtube-crypto-index](https://github.com/sd816224/bcbc))
+- 🌱 I’m currently working on a personal data engineering project: ([youtube-crypto-index](https://github.com/sd816224/youtube-crypto-index))
 
-- 🔭 recently rebuild website: [my basketball club website](http://bcbasketball.co.uk) ([repo](https://github.com/sd816224/youtube-crypto-index))
+- 🔭 recently rebuild website: [my basketball club website](http://bcbasketball.co.uk) ([repo](https://github.com/sd816224/bcbc))
 </td>
 <td valign="top" width="50%">
 
